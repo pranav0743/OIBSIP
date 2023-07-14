@@ -1,0 +1,21 @@
+body {
+    background-image: linear-gradient(to top, #82ed82 0%, #8d73e1 100%);
+}
+.col-md-6{
+    margin-top:150px !important;
+    background-image: linear-gradient(to top, #06eaa9 0%, #72afd3 100%);
+    border-radius: 9px;
+}
+input[type=button] {
+    width: 80%;
+    background-color: rgb(10, 160, 165);
+    color: whitesmoke;
+    border: 3px solid black !important;
+    border-radius: 9px;
+}
+input[type=text] {
+    width: 100%;
+    border: 3px solid black !important;
+    border-radius: 9px;
+}
+
